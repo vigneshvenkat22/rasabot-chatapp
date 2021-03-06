@@ -61,7 +61,7 @@ rasa train #initiate training
 rasa train --help
 rasa train -- fix model name
 
-rasa interactive #to chat with model
+rasa interactive #to chat 
 
 rasa shell  #Alternative
 
